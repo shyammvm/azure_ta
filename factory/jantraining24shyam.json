@@ -1,0 +1,9 @@
+{
+	"name": "jantraining24shyam",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c97b1966-3561-4446-961d-52798b63d6a8",
+		"tenantId": "5342be0f-10dc-4991-8006-6ea86f720112"
+	}
+}

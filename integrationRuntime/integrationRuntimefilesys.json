@@ -1,0 +1,6 @@
+{
+	"name": "integrationRuntimefilesys",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
